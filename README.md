@@ -7,8 +7,8 @@ A collection of machine learning and computer vision applications covering recom
 ## Project Structure
 
 ```
-Applied_Programming_Lab/
-├── venv/                            ← Unified virtual environment
+ML_Concepts/
+├── venv/                            ← virtual environment
 ├── requirements.txt
 ├── recommendation_system/
 │   └── recommendation_system.py
