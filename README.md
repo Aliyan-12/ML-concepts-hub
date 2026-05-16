@@ -1,4 +1,4 @@
-# ML Vision Suite
+# ML Concepts Hub
 
 A collection of machine learning and computer vision applications covering recommendation systems, face detection, medical diagnosis, and financial forecasting. Each module is self-contained in its own directory and shares a single virtual environment.
 
