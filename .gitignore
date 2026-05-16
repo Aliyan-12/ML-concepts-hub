@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Media files
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Compiled Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated model and data files
+*.pkl
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
